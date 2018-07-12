@@ -15,7 +15,7 @@
 }
 }
 
-@media only screen and (max-width: 900x) {
+@media only screen and (max-width: 900px) {
   body {
     font-size: 85%;
   }
@@ -33,3 +33,5 @@
     top: 72px;
   }
 }
+
+@media only screen and (max-width: 800px)
